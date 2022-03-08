@@ -34,7 +34,7 @@ Some reference that I refered for ATMEL AT89C51 Application design and developme
 1: Schaum's Outline of Programming with C, 2nd Edition - Book authored by Byron Gottfried.
 2: Understanding and Using C Pointers: Core Techniques for Memory Management - Book authored by Richard M. Reese. 
 3: Embedded C - Book authored by Michael J. Pont.
-4: ATMEL AT89C51 product datasheet
+4: ATMEL AT89C51 product datasheet. 
 5: https://www.electronicwings.com/8051/inside  - 8051
 
 
