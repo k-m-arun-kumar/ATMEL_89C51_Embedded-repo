@@ -44,4 +44,4 @@ Kindly read in the source codes, if mentioned, about the Program Description or 
 
 Repository Web Link :
 =====================
-https://github.com/k-m-arun-kumar/ATMEL_89C51-repo.git
+https://github.com/k-m-arun-kumar/ATMEL_89C51_Embedded-repo.git
