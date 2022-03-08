@@ -20,7 +20,7 @@ Till present, I just shared my works that I used as the learning path and practi
   
 My Thanks and Tribute :
 ========================
-I thank to my Parents, Sister and Family, Grand Parents, Teachers, Friends, God and all those, for their support and/or help, to me and/or my family. My tribute to my Parents, Sister and Family, Grandparents, Dears, Teachers, Guidance (including GitHub, Toolchains & my reference), Friends, Nation, Farmers, Workers, Nation's Freedom fighters and their family, Nation's defence force personnels and their family, those with good spirits, those involve in social service, those contribute in open source and/or freeware, Nature, Jimmy Dog and all those, who directly or indirectly helped me and/or my family. 
+I thank to my Parents, Sister and Family, Grand Parents, Teachers, Friends, God and all those, for their support and/or help, to me and/or my family. My tribute to my Parents, Sister and Family, Grandparents, Dears, Teachers, Guidance (including GitHub, Toolchains & my reference), Friends, Nation, Farmers, Workers, Nation's Freedom fighters and their family, Nation's defence force personnels and their family, those with good spirits, those involve in social service, those contribute in open source and/or freeware, Nature, Jimmy Dog and all those, who directly or indirectly help and/or support me and/or my family. 
 
 Toolchains that I used for ATMEL AT89C51 Application design and development are as follows :
 ============================================================================================
