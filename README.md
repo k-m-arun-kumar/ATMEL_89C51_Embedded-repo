@@ -24,7 +24,7 @@ I thank to all those, for their support or helped, to me and my family. My tribu
 
 Toolchains that I used for ATMEL AT89C51 Application design and development are as follows :
 ============================================================================================
-1: IDE and Simulator for Application development of ATMEL AT89C51           - Keil uvision 4 for 8051 Development Tools
+1: IDE and Simulator for Application development of ATMEL AT89C51           - Keil uvision 4 for 8051 Development Tools.
 2: Desktop Computer Architecture and OS for development of ATMEL AT89C51    - Intel X64 & Windows 7 (32 bit).
 3: Code editor                                                              - Notepad++.
 4: Documentation                                                            - Microsoft Office 2007 (alternative LibreOffice) and Text Editor.
